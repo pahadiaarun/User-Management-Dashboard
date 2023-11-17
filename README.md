@@ -8,7 +8,7 @@ A simple CRUD application for managing user details with ReactJS, Tailwind CSS, 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Related Pictures](#project-pictures)
+- [Project Related Pictures](#project-related-pictures)
 
 ## Overview
 
